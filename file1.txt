@@ -12,3 +12,5 @@ Cannada
 France
 
 Norway
+
+Sweden
