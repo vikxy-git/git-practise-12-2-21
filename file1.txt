@@ -10,3 +10,5 @@ Belgium
 Cannada
 
 France
+
+Norway
